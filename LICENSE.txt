@@ -1,0 +1,3 @@
+This project is a new GUI application based on the APC40 MK2 MIDI protocol.
+The supplied AkaiAPC40Utils.java reference identifies its original code as MIT licensed.
+This GUI itself is provided as-is for the user's APC40 MK2 setup.
